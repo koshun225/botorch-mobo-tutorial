@@ -12,4 +12,5 @@ dependencies = [
     "numpy",
     "pandas",
     "jupyter",
+    "japanize-matplotlib>=1.1.3",
 ]
